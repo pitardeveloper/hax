@@ -922,1631 +922,1807 @@ m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
    
  
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
 });
 
 client.on('message', message => {
- if (message.content === $hackerishere) {
-  const embed = new Discord.RichEmbed()
-   .clientsetColor("ff0000")
-   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
-   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
-  message.channel.sendMessage(embed);
-  message.author.sendEmbed(embed)
- }
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
 });
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+
+
+
 
 
 
