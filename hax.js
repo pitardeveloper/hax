@@ -921,1804 +921,1818 @@ m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 });
    
  
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
     }
 });
 
-client.on('message', message => {
+LOka.on('message', message => {
     if(message.content === '$hackerishere'){
         message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
     }
 });
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+    }
+});
+
+
 
 
 
