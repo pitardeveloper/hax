@@ -3,7 +3,7 @@ const LOka = new Discord.Client();
 console.log('By Lava Pro');
 LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
- س
+ 
 });
 LOka.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
