@@ -142,2823 +142,8 @@ LOka.on('message', message => {
         permissions :   [1],
         color : " #ff0000"
     })
+           
    m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "قائد القوات الفدرالية موستانس",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "كلان جلاد نايك امكم يخوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "تم نيك السيرفر بنجاح",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-  m.createRole({
-        name : "رتب سيرفركم انتاكت من قبل جلااد",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "تم جلدكم من قبل جلاد ي كساس البعر",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "برا النت يخخوات الحقبة",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "جلاد كلان ينيك امكم",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-     m.createRole({
-        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
         name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
@@ -3004,6 +189,5481 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
            
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+    m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           
+            
 
  
    
