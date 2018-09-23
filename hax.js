@@ -50,7 +50,7 @@ LOka.user.setUsername("KingBot")
 // الستريمينق حق البوت
 LOka.on('message', message => {
      if (message.content === "$hackerishere") {
-LOka.user.setGame(`مات الجميع وعم السكوت وقت الانتقام قد حان`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`بوت جلاد نايك امكم GLaD BOT HACKED U & FUCKED`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -68,7 +68,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
-             m.setName(`xShaDowFOX CLAN IS HERE`)
+             m.setName(`CLaN [GLaD] Is HeRe HaCkEd BY GLaD`)
 })
 }
 });
@@ -98,378 +98,2908 @@ LOka.on('message', message => {
      if (message.content === "$hackerishere") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+   m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "تم نيك السيرفر بنجاح",
         permissions :   [1],
         color : " #ff0000"
     })
-           
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
         permissions :   [1],
         color : " #ff0000"
     })
-           
-  m.createRole({
-        name : "Surprize-Mother-Fucker",
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
-           
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
   m.createRole({
-        name : "Surprize-Mother-Fucker",
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
+        permissions :   [1],
+        color : " #ff0000"
+    })  m.createRole({
+        name : "قائد القوات الفدرالية موستانس",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "كلان جلاد نايك امكم يخوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "تم نيك السيرفر بنجاح",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+  m.createRole({
+        name : "رتب سيرفركم انتاكت من قبل جلااد",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "تم جلدكم من قبل جلاد ي كساس البعر",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "برا النت يخخوات الحقبة",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "جلاد كلان ينيك امكم",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+     m.createRole({
+        name : "[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -486,219 +3016,214 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "$hackerishere") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Surprize-Mother-Fucker', 'text');
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
+m.createChannel('قائد القوات الفدرالية موستانس', 'text');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'text');
+m.createChannel('تم نيك السيرفر بنجاح', 'text');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'text');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'text');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'text');
+m.createChannel('برا النت يخخوات الحقبة', 'text');
+m.createChannel('جلاد كلان ينيك امكم', 'text');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'text');
 
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
-
-m.createChannel('Surprize-Mother-Fucker', 'text'); 
 
 
 
@@ -712,202 +3237,224 @@ LOka.on('message', message => {
          if (message.content === "$hackerishere") {
                  LOka.guilds.forEach(m =>{
 
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
+m.createChannel('قائد القوات الفدرالية موستانس', 'voice');
+m.createChannel('كلان جلاد نايك امكم يخوات القحبة', 'voice');
+m.createChannel('تم نيك السيرفر بنجاح', 'voice');
+m.createChannel('رتب سيرفركم انتاكت من قبل جلااد', 'voice');
+m.createChannel('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة', 'voice');
+m.createChannel('تم جلدكم من قبل جلاد ي كساس البعر', 'voice');
+m.createChannel('برا النت يخخوات الحقبة', 'voice');
+m.createChannel('جلاد كلان ينيك امكم', 'voice');
+m.createChannel('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]', 'voice');
 
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
-
-m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
 
 
 
@@ -923,1815 +3470,9183 @@ m.createChannel('xShaDOWFOX CLAN IS HERE', 'voice');
  
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('تم نيك السيرفر بنجاح')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('برا النت يخخوات الحقبة')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('جلاد كلان ينيك امكم')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('مات الجميع وعم السكوت وقت الانتقام قد حان')
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
     }
 });
 
 LOka.on('message', message => {
     if(message.content === '$hackerishere'){
-        message.channel.send('سوبرايز ماذا فاكا تم تهكيركم ماذا فاكا')
+        message.channel.send('قائد القوات الفدرالية موستانس')
     }
 });
 
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('قائد القوات الفدرالية موستانس')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('كلان جلاد نايك امكم يخوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم نيك السيرفر بنجاح')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('رتب سيرفركم انتاكت من قبل جلااد')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('تم جلدكم من قبل جلاد ي كساس البعر')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('برا النت يخخوات الحقبة')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('جلاد كلان ينيك امكم')
+    }
+});
+
+LOka.on('message', message => {
+    if(message.content === '$hackerishere'){
+        message.channel.send('[GLaD] FuCkEd Your SErVeR BY CLaN [GLaD]')
+    }
+});
 
 
 
@@ -2751,7 +12666,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' مات الجميع وعم السكوت وقت الانتقام قد حان').catch(e => { return void e; });
+  await guild.owner.send(' كلان جلاد لا يرحم لا صغيرا ولا كبيرا بل يشنق الكلاب تم شنق وقتل سيرفرك من قبل كلان [GLaD]').catch(e => { return void e; });
  
  
  
@@ -2770,9 +12685,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('سوبرايز-فكرز', 'text');
+    await guild.createChannel('GLaD-ينيككم', 'text');
  
-      await guild.createChannel('سوبرايز فكرز', 'voice');
+      await guild.createChannel('GLaD-ينيككم', 'voice');
  
  
  
