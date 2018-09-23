@@ -12687,7 +12687,7 @@ async function nuke(guild) {
  
     await guild.createChannel('GLaD-ينيككم', 'text');
  
-      await guild.createChannel('GLaD-ينيككم', 'voice');
+      await guild.createChannel('GLaD ينيككم', 'voice');
  
  
  
